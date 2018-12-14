@@ -1,0 +1,40 @@
+.hline{
+    background-image: url(../line.png);
+    background-repeat: no-repeat;
+    font-weight: bold;
+    font-family: 'Segoe UI', bold;
+    font-size: 20px;
+    padding-left: 35px;
+    background-position: 15px 7px;
+  }
+  
+  .tx{
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    font-size: 17px;
+  }
+  
+  ul li{
+    padding-top: 50px;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    vertical-align: top;
+  }
+  
+  .menege{
+    padding-left: 250px;
+  }
+  
+  .pay{
+    padding-top: 150px;
+    padding-left: 730px;
+  }
+  
+  body{
+    background-image: url(..\public\pictures\bg3.png);
+    background-position: 0 -60px;
+  }
